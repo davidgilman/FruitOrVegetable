@@ -1,0 +1,8 @@
+{
+  "exponentServerPort": 19002,
+  "packagerPort": 19003,
+  "packagerPid": 38151,
+  "exponentServerNgrokUrl": "https://5s-prp.davidgilman.fruitorvegetable.exp.direct",
+  "packagerNgrokUrl": "https://packager.5s-prp.davidgilman.fruitorvegetable.exp.direct",
+  "ngrokPid": 38171
+}
